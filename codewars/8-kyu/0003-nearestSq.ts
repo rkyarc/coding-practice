@@ -1,5 +1,5 @@
 /*
-Exercise 0002 - Find Nearest square number
+Exercise 0003 - Find Nearest square number
 ---------------------------------------------------------
 Task:
 Your task is to find the nearest square number of a positive 
